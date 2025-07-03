@@ -63,4 +63,6 @@ Currently leveling up by shipping full projects and learning in public.
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/97c43b4d-2642-4816-b891-c56dab220a63.svg)](https://wakatime.com/@97c43b4d-2642-4816-b891-c56dab220a63)
+
 > ⚡ Let’s build something cool — or just vibe about code. DMs open.
