@@ -60,7 +60,7 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 
 > Real-time coding activity tracking powered by WakaTime
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@97c43b4d-2642-4816-b891-c56dab220a63&layout=compact&theme=radical)](https://wakatime.com/@97c43b4d-2642-4816-b891-c56dab220a63)
+[![wakatime](https://wakatime.com/badge/user/97c43b4d-2642-4816-b891-c56dab220a63.svg)](https://wakatime.com/@97c43b4d-2642-4816-b891-c56dab220a63)
 
 ---
 
