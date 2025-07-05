@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Otabek Abdiraimov
 
+![Profile Views](https://komarev.com/ghpvc/?username=abdiraimov-otabek&style=flat&color=blue)
+
 ## 🧠 Backend Developer | System Builder | 16 y.o. from Uzbekistan
 
 I build **real-world web systems** with Django + DRF.  
