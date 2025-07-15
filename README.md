@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=130&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=170&section=header"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdiraimov-otabek&style=flat&color=blue)
 
 ## 🧠 Backend Developer | System Builder | 16 y.o. from Uzbekistan
 
@@ -34,6 +28,10 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdiraimov-otabek&style=flat&color=blue)
 
 ---
 
@@ -89,3 +87,8 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 ---
 
 > ⚡ Let’s collab, build, or just vibe about backend & bots.
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
