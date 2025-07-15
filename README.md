@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Otabek Abdiraimov
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Otabek Abdiraimov!&height=130&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>#
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdiraimov-otabek&style=flat&color=blue)
 
