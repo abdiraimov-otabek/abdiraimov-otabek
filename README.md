@@ -40,8 +40,6 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 | 🛒 **CRUD Bot** | Telegram bot for managing products |
 | 💰 **Money Tracker Bot** | Expense tracking bot used by 1K+ users |
 
-> 🔗 [Check them on GitHub »](https://github.com/abdiraimov-otabek)
-
 ---
 
 ## 📊 GitHub Stats
