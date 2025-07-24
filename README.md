@@ -39,6 +39,7 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 
 | Name | Description |
 |------|-------------|
+| 🏥 **Clamo** | Clinics licensing company website |
 | 🏥 **ClinicBot** | Doctor booking Telegram bot |
 | 📦 **Omborxona System** | Product inventory with expiry tracking |
 | 🛒 **CRUD Bot** | Telegram bot for managing products |
