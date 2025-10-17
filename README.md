@@ -19,7 +19,7 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 ![DRF](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
 ### Frontend (support level)  
