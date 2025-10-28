@@ -88,6 +88,6 @@ And many more some private projects. Some of my projects made public.
 > ⚡ Let’s collab, build, or just vibe about backend & bots.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333&height=100&section=footer"/>
 </p>
 
