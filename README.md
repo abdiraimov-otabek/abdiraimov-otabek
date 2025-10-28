@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=170&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&text=Hello!&height=170&section=header"/>
 </p>
 
 ## 🧠 Backend Developer | System Builder | 16 y.o. from Uzbekistan
@@ -92,5 +92,5 @@ Currently in **MAX OUTPUT** mode: building, shipping, applying, evolving.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer"/>
 </p>
