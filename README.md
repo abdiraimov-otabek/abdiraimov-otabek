@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&text=Hello!&height=170&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gray&text=Hello!&reversal=false&fontColor=ffff&textBg=false"/>
 </p>
 
 ## 🧠 Backend Developer | System Builder | 16 y.o. from Uzbekistan
