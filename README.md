@@ -56,10 +56,10 @@ And many more some private projects. Some of my projects made public.
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdiraimov-otabek\&layout=compact\&theme=radical\&hide_title=true)
 
 ![Otabek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdiraimov-otabek\&show_icons=true\&theme=radical\&border_radius=10\&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdiraimov-otabek\&layout=compact\&theme=radical\&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdiraimov-otabek\&theme=radical\&date_format=M%20j%5B%2C%20Y%5D)
 
